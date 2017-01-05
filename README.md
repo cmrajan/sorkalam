@@ -1,0 +1,2 @@
+# sorkalam
+Reimplement Tamil Wordnet
